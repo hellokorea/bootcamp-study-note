@@ -4,7 +4,7 @@
 <br>
 
 ## 6월
-- [Lambda / blocking, non-blocking, sync, async]()
+- [Lambda / blocking, non-blocking, sync, async](https://github.com/hellokorea/bootcamp-study-note/blob/main/6_month/2_weeks/06_18.md)
 
 <br>
 
